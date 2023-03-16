@@ -1,0 +1,1 @@
+"?C:\Program Files\UiPath\Studio\UiRobot.exe" -file "C:\Users\UiPath4\Documents\UiPath\Airtel-Malawi-MOP\Main.xaml"
